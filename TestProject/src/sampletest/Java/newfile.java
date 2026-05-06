@@ -1,4 +1,4 @@
-package test.Java;
+package sampletest.Java;
 
 public class newfile {
 	public static void main(String[] args) {
